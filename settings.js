@@ -61,8 +61,8 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
+global.owner = ['989339658384']
+global.ownertag = '989339658384' //ur tag number
 global.botname = 'Cheems Bot MD V4' //ur bot name
 جهانی . linkz  =  "https://youtu.be/WiIqCdiDjFo"  //url تم شما که در واتساپ نمایش داده می شود
 جهانی . websitex  =  "https://youtu.be/WiIqCdiDjFo"  //وب سایت نمایش داده می شود
